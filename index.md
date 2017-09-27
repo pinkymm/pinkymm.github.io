@@ -3,8 +3,6 @@
 Ph.D. Candidate
 <br/>University of Chinese Academy and Sciences
 <br/>Email: dongying5250@gmail.com
->das
->dsdadadsa
 
 
 ### Biography
