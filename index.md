@@ -2,12 +2,12 @@
 
 Ph.D. Candidate
 <br/>University of Chinese Academy and Sciences
-<br/>Email: dongying5250[AT]gmail[DOT]com
+<br/>Email: dongying5250 AT gmail DOT com
 
 
 ### Biography
 
-Ying Dong is currently a Ph.D. candidate in University of Chinese Academy and Sciences. Her research interests span computer security and machine learning.
+Ying Dong is a Ph.D. candidate in University of Chinese Academy and Sciences. She currently works as a visiting sholar in Pennsylvania State University. Her research interests span computer security and machine learning.
 
 
 ### Selected Publications
