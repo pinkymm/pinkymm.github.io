@@ -1,6 +1,9 @@
 ## Ying Dong
 
 Ph.D. Candidate
+University of Chinese Academy and Sciences
+Email: dongying5250@gmail.com
+
 
 
 ### Biography
@@ -15,5 +18,5 @@ Ying Dong, Yuqing Zhang, Hua Ma, et al. “An adaptive system for detecting mali
 
 ### Award
 
-CSC Scholarship 2017-Now
-National Scholarship 2009-2010
+- CSC Scholarship 2017-Now
+- National Scholarship 2009-2010
