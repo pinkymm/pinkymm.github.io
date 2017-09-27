@@ -2,7 +2,7 @@
 
 Ph.D. Candidate
 <br/>University of Chinese Academy and Sciences
-<br/>Email: dongying5250@gmail.com
+<br/>Email: dongying5250[AT]gmail[DOT]com
 
 
 ### Biography
