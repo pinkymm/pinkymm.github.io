@@ -7,7 +7,7 @@ Ph.D. Candidate
 
 ### Biography
 
-Ying Dong is a Ph.D. candidate in University of Chinese Academy and Sciences. She currently works as a visiting sholar in Pennsylvania State University. Her research interests span computer security and machine learning.
+Ying Dong is a Ph.D. candidate in University of Chinese Academy and Sciences. She currently works as a visiting scholar in Pennsylvania State University. Her research interests span computer security and machine learning.
 
 
 ### Selected Publications
